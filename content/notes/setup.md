@@ -13,7 +13,7 @@ Setting up Quartz requires a basic understanding of `git`. If you are unfamiliar
 
 Navigate to the GitHub repository for the Quartz project:
 
-📁 [Quartz Repository](https://github.com/jackyzha0/quartz)
+📁 [Quartz Repository](https://github.com/osyaghudia/quartz)
 
 Then, Fork the repository into your own GitHub account. If you don't have an account, you can make on for free [here](https://github.com/join). More details about forking a repo can be found on [GitHub's documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
@@ -21,7 +21,7 @@ Then, Fork the repository into your own GitHub account. If you don't have an acc
 After you've made a fork of the repository, you need to download the files locally onto your machine. Ensure you have `git`, then type the following command replacing `YOUR-USERNAME` with your GitHub username.
 
 ```shell
-git clone https://github.com/YOUR-USERNAME/quartz
+git clone https://github.com/osyaghudia/quartz
 ```
 
 ## Editing
